@@ -1,0 +1,23 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    <div class="text-center">
+    <h1 class="display-4">HELLO</h1>
+    <p>Learn about building Web apps with ASP.NET Core</p>
+    <p>The current time is: @DateTime.Now</p>
+    </div>
+<p></p>
+    
+    <h3>List of names participating in...</h3>
+    <p>
+        @foreach (var item in Model)
+        {
+            <p>@item</p>
+        }
+    </p>
+    
+
+}
+

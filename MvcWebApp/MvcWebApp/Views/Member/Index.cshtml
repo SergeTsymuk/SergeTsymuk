@@ -1,0 +1,22 @@
+﻿@{List<string> member = new List<string>();
+            member.Add("Stepan Razin");
+            member.Add("Anka Sidorova");
+            member.Add("Vlad Smirnov");
+            member.Add("Ivan Sviridov");
+}
+@{
+<div class="text-center">
+    <h1 class="display-4">Welcome to this page</h1>
+    
+
+</div>
+<p>
+<h4> Here is the list of the members:</h4>
+    <ul>
+    @foreach (var item in member)
+    {
+        <li>@item</li>
+    }
+    </ul>
+    </p>
+}
