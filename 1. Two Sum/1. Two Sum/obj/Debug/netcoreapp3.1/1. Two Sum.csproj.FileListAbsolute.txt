@@ -1,0 +1,14 @@
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.csproj.AssemblyReference.cache
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.AssemblyInfoInputs.cache
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.AssemblyInfo.cs
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.csproj.CoreCompileInputs.cache
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.exe
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.deps.json
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.runtimeconfig.json
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.runtimeconfig.dev.json
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.dll
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.pdb
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.dll
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.pdb
+C:\Users\serge\Documents\GitHub\SergeTsymuk\1. Two Sum\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.genruntimeconfig.cache
