@@ -1,0 +1,10 @@
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\serge\Documents\GitHub\tsymuk\ASP_DB_Connected\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
