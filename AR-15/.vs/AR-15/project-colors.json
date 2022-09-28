@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4b34912-bd51-419e-a6ba-de8837c92184": {
+      "ProjectGuid": "d4b34912-bd51-419e-a6ba-de8837c92184",
+      "DisplayName": "AR-15",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
