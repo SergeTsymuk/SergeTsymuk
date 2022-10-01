@@ -1,0 +1,15 @@
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.exe
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.deps.json
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.runtimeconfig.json
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.dll
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\bin\Debug\net6.0\Fibonacci.pdb
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.AssemblyReference.cache
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.AssemblyInfo.cs
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.dll
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\ref\Fibonacci.dll
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.pdb
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\Fibonacci.genruntimeconfig.cache
+C:\Users\serge\Documents\GitHub\tsymuk\Fibonacci\Fibonacci\obj\Debug\net6.0\refint\Fibonacci.dll
