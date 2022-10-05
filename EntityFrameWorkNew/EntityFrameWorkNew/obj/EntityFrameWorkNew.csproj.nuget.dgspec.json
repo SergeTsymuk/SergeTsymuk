@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serge\\Documents\\GitHub\\tsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\EntityFrameWorkNew.csproj": {}
+    "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\EntityFrameWorkNew.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serge\\Documents\\GitHub\\tsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\EntityFrameWorkNew.csproj": {
+    "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\EntityFrameWorkNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serge\\Documents\\GitHub\\tsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\EntityFrameWorkNew.csproj",
+        "projectUniqueName": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\EntityFrameWorkNew.csproj",
         "projectName": "EntityFrameWorkNew",
-        "projectPath": "C:\\Users\\serge\\Documents\\GitHub\\tsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\EntityFrameWorkNew.csproj",
+        "projectPath": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\EntityFrameWorkNew.csproj",
         "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serge\\Documents\\GitHub\\tsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\obj\\",
+        "outputPath": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\EntityFrameWorkNew\\EntityFrameWorkNew\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,22 +60,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.24, 3.1.24]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

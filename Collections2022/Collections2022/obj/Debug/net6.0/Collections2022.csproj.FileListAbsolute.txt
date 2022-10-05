@@ -1,0 +1,15 @@
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\bin\Debug\net6.0\Collections2022.exe
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\bin\Debug\net6.0\Collections2022.deps.json
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\bin\Debug\net6.0\Collections2022.runtimeconfig.json
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\bin\Debug\net6.0\Collections2022.dll
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\bin\Debug\net6.0\Collections2022.pdb
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\Collections2022.csproj.AssemblyReference.cache
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\Collections2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\Collections2022.AssemblyInfoInputs.cache
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\Collections2022.AssemblyInfo.cs
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\Collections2022.csproj.CoreCompileInputs.cache
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\Collections2022.dll
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\ref\Collections2022.dll
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\Collections2022.pdb
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\Collections2022.genruntimeconfig.cache
+C:\Users\serge\Documents\GitHub\tsymuk\Collections2022\Collections2022\obj\Debug\net6.0\refint\Collections2022.dll

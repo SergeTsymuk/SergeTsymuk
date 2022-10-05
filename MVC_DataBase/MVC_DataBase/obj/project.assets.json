@@ -9712,11 +9712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROGRAMMING_Courses\\MVC_DataBase\\MVC_DataBase\\MVC_DataBase.csproj",
+      "projectUniqueName": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\MVC_DataBase\\MVC_DataBase\\MVC_DataBase.csproj",
       "projectName": "MVC_DataBase",
-      "projectPath": "D:\\PROGRAMMING_Courses\\MVC_DataBase\\MVC_DataBase\\MVC_DataBase.csproj",
+      "projectPath": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\MVC_DataBase\\MVC_DataBase\\MVC_DataBase.csproj",
       "packagesPath": "C:\\Users\\serge\\.nuget\\packages\\",
-      "outputPath": "D:\\PROGRAMMING_Courses\\MVC_DataBase\\MVC_DataBase\\obj\\",
+      "outputPath": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\MVC_DataBase\\MVC_DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

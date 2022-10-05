@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" 
+    rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="img/bootstrap-fill.svg" />
+    <title>Full Stack Bootcamp</title>
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 fixed-top">
+        <div class="container">
+            <a href="#" class="navbar-brand">FrontEnd Bootcamp</a>
+            <button 
+                class="navbar-toggler" 
+                type="button" 
+                data-bs-toggle="collapse" 
+                data-bs-target="#navmenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navmenu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a href="#learn" class="nav-link">What yo will learn</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#questions" class="nav-link">Questions</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#instructors" class="nav-link">Instructors</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--ShowCase-->
+    <section class="bg-dark text-light pt-5 pt-lg-5 text-center text-sm-start">
+        <div class="container">
+            <div class="d-sm-flex align-items-center justify-content-between">
+                <div>
+                    <h1>Become a <span class="text-warning">Web Developer</span></h1>
+                    <p class="lead my-4" >
+                        A coding bootcamp is a concentrated course that teaches essential skills and provides real-world training for people seeking jobs in computer and information technology fields. Coding bootcamps condense the time and expense required to pursue a traditional college degree by focusing on the hard skills that employers desire. As a result, bootcamps can provide an accelerated path to a rewarding technical career.
+                    </p>
+                    <button class="btn btn-primary btn-lg">
+                        Start Enrollment</button>
+                </div>
+                <img class="img-fluid w-50 d-none d-sm-block" src="img/WebDev.png" alt=""> 
+            </div>
+        </div>
+        <div class="dark pt-5">
+        </div>
+    </section>
+    <!--Newsletter-->
+    <section class="bg-primary text-light p-5 pt-lg-5">
+        <div class="container">
+            <div class="d-md-flex justify-content-between align-items-center">
+                <h3 class="mb-3 mb-md-0">Sign Up For Our Newsletter</h3>
+                <div class="input-group news-input">
+                    <input 
+                    type="text" 
+                    class="form-control" 
+                    placeholder="Enter your Email">
+                    <button 
+                    class="btn btn-dark btn-lg" 
+                    type="button" 
+                    id="button-addon2">
+                    Button</button>
+                  </div>
+            </div>
+        </div>
+    </section>
+    <!--Boxes-->
+    <section class="p-5">
+        <div class="container ">
+            <div class="row text-center g-4">
+                <div class="col-md">
+                    <div class="card bg-dark text-light p-2">
+                        <div classp="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-laptop"></i>
+                            </div>
+                            <h3 class="card-title mb3">
+                                Virtual</h3>
+                            <p class="card-text">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, officia! Tempore in molestiae optio praesentium?
+                            </p>
+                            <a href="#" class="btn btn-primary">Read More</a>    
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="card bg-secondary text-light p-2">
+                        <div classp="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-person-square"></i>
+                            </div>
+                                <h3 class="card-title mb3">
+                                Hybrid</h3>
+                            <p class="card-text">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, officia! Tempore in molestiae optio praesentium?
+                            </p>
+                            <a href="#" class="btn btn-secondary">Read More</a>    
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="card bg-info text-se p-2">
+                        <div classp="card-body text-center">
+                            <div class="h1 mb-3">
+                                <i class="bi bi-people"></i>
+                            </div>
+                                <h3 class="card-title mb3">
+                                In Person</h3>
+                                <p class="card-text">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, officia! Tempore in molestiae optio praesentium?
+                            </p>
+                            <a href="#" class="btn btn-secondary">Read More</a>    
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Learn secions-->
+    <section id="learn" class="p-5">
+        <div class="container">
+      
+            <div class="row">
+                <div class="p-5">
+                <br />
+                <img src="img/Basics.svg" class="float-start imgshadow w-50 m-3" alt="">
+                <h1>Become a <span class="text-warning">Web Developer</span></h1>
+                    <p class="lead" >
+                        HTML, CSS and JAVASCRIPT are three basics which are essential to make a website. They are at the core of any website. Even a non-technical person having these three skills can add a spark to their career in whatever field they are. And suprisingly, it is not that tough to get equipped with it. If we talk about HTML, it stands for HyperText Markup Language, which clarifies to an extent that it is not a programming language but it is a language that uses a tag to form a content.
+                    </p>
+                    <p class="lead">
+                        CSS is what gives our entire website a unique style, It beautifies the basic structure of the content prepared through HTML.CSS makes it possible to see the web page according to the screen, i.e. on a mobile screen, it will be fitted in the screen as per the size of the mobile phone.
+                    </p>
+                    <p class="lead">
+                        Javascript is a bit complex programming language that enables the developer to make the web application interactive.JavaScript is essential for security password creation, check forms, interactive games, and special effects. It is also used to build mobile apps and create server-based applications
+                    </p>
+                    <a button class="btn btn-primary btn-lg ">
+                        <i class="bi-chevron-right"></i>Read More</button></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--React secions-->
+    <section id="react" class="p-5 bg-dark text-light">
+        <div class="container">
+            <div class="row">
+                <div class="p-5 text-start">
+                    <div class="pe-5">
+                        <img src="img//React.svg" style='float: right; margin-left: 10px'> 
+                    </div>
+                    <h1>Why to <span class="text-warning">Learn Raect</span></h1>
+                    <p class="lead" >
+                        <em>1. React is flexible and efficient</em>
+                        <p>Given the connection between React and Facebook, it's no surprise that React is widely supported among all the major browsers. And, its modular structure means that it's much easier to manage and update React projects than those developed with other JavaScript libraries.</p>
+                        <p>The pre-built functions in React will also save time that you'd otherwise spend developing your project line by line. Plus, React functions can be put together to quickly create scalable projects that look great.</p>
+                    </p>
+                    <p class="lead">
+                        <em>2. React developers are in demand</em>
+                        <p>Since most of the world went digital in 2020, employers around the globe have been looking for talented React developers. Unfortunately, there simply aren't enough React developers to keep up with the demand — which means that companies are willing to pay more for developers who are familiar with the library.</p>
+                        <p>How much does a React developer make? On average, React developers in the U.S. can expect $80,000–$85,000 from a starting salary, and experienced developers can earn well over $130,000.</p>
+                        <p>It literally pays to learn React.</p>
+                    </p>
+                    <p class="lead">
+                        <em>3. React doesn't take long to learn</em>
+                        <p>We know your next question: how long does it take to learn React?</p>
+                        <p>The answer depends on your experience. One advantage to learning React is that it builds on your existing knowledge of the fundamentals of <a href="https://www.codecademy.com/catalog/subject/web-development?utm_source=ccblog&utm_medium=ccblog&utm_campaign=ccblog&utm_content=three_reasons_to_learn_react_blog" target="blank">web development.</a></p>
+                        <p>If you're new to web development, you should be prepared to invest up to a year in learning React as you'll first need to develop other essential skills like basic programming concepts, the fundamentals of web development, and a basic understanding of JavaScript, <a href="https://join.codecademy.com/learn/learn-html/" target="blank">HTML</a>, and <a href="https://www.codecademy.com/learn/learn-css?utm_source=ccblog&utm_medium=ccblog&utm_campaign=ccblog&utm_content=three_reasons_to_learn_react_blog" target="blank">CSS</a>.</p>
+                        <p>It might sound like a lot, but these are basic skills you'll need as you transition to your new career in development. Plus, learning React will deepen your understanding of JavaScript's structure, which will come in handy throughout your career.</p>
+                        <p>But what if you're already a JavaScript pro? Then, chances are, you'll probably be able to learn React in as little as a few weeks.</p>
+                    </p>
+                    <p>
+                        <a button class="btn btn-primary btn-lg ">
+                        <i class="bi-chevron-right"></i>Read More</button></a>
+                    </p>
+                </div>
+                   
+            </div>
+        </div>
+    </section>
+    <!--Question accord-->
+    <section id="questions" class="p-5">
+        <div class="container">
+            <h2 class="text-center mb4">
+            Frequently Asked Questions</h2>
+            <div class="accordion accordion-flush" 
+                 id="questions">
+                <!--- Item1 --->
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingOne">
+                    <button 
+                    class="accordion-button collapsed" 
+                    type="button" 
+                    data-bs-toggle="collapse" 
+                    data-bs-target="#QuestionOne">
+                      Where are you located?
+                    </button>
+                  </h2>
+                  <div id="QuestionOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">We are located at <a href="https://www.google.com/maps/place/Lifeway+Baptist+Church/@40.087023,-75.0361295,17z/data=!3m2!4b1!5s0x89c6b3bf3ee29999:0x24f63cf164d410cd!4m5!3m4!1s0x89c6b3bf3f35d6b7:0xff457c24054dc159!8m2!3d40.087023!4d-75.0361295">Life Way Church</a></div>
+                  </div>
+                </div>
+                <!--- Item2 --->
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingTwo">
+                    <button 
+                    class="accordion-button collapsed" 
+                    type="button" 
+                    data-bs-toggle="collapse" 
+                    data-bs-target="#flush-collapseTwo">
+                      How much does it cost to attend?
+                    </button>
+                  </h2>
+                  <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">This cources are free!</div>
+                  </div>
+                </div>
+                <!--- Item3 --->
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="flush-headingThree">
+                    <button 
+                    class="accordion-button collapsed" 
+                    type="button" 
+                    data-bs-toggle="collapse" 
+                    data-bs-target="#flush-collapseThree">
+                      How long the cource is going to last?
+                    </button>
+                  </h2>
+                  <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">This cource will last about one year.</div>
+                  </div>
+                </div>
+              </div>
+        </div>
+    </section>
+<!--Our Instructors-->
+    <section id="instructiors" class="p-5 bg-primary">
+        <div>
+            <h2 class="text-center text-white">Our Instructors</h2>
+            <p class="lead text-center text-white mb-5">
+                All our Instructors have 5+ years of experience working as a web developer in the industry
+            </p>
+            <div class="row g-4">
+                <div class="col-md-6 col-lg-3">
+                    <div class="card bg-light">
+                        <div class="card-body text-center">
+                            <img src="http://randomuser.me/api/portraits/men/11.jpg" class="rounded-circle mb-3" alt="">
+                            <h3 class="card-title mb-3">John Doe</h3>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla corrupti delectus, commodi voluptatibus quia, repudiandae sint voluptatum praesentium quod consequatur, quo voluptas et vitae dolore placeat earum ipsam nisi ea.</p>
+                            <a href="#"><i class="bi bi-twitter text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-facebook text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-linkedin text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-instagram text-dark mx-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card bg-light">
+                        <div class="card-body text-center">
+                            <img src="http://randomuser.me/api/portraits/women/11.jpg" class="rounded-circle mb-3" alt="">
+                            <h3 class="card-title mb-3">Jane White</h3>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla corrupti delectus, commodi voluptatibus quia, repudiandae sint voluptatum praesentium quod consequatur, quo voluptas et vitae dolore placeat earum ipsam nisi ea.</p>
+                            <a href="#"><i class="bi bi-twitter text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-facebook text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-linkedin text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-instagram text-dark mx-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card bg-light">
+                        <div class="card-body text-center">
+                            <img src="http://randomuser.me/api/portraits/men/14.jpg" class="rounded-circle mb-3" alt="">
+                            <h3 class="card-title mb-3">Stive Smith</h3>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla corrupti delectus, commodi voluptatibus quia, repudiandae sint voluptatum praesentium quod consequatur, quo voluptas et vitae dolore placeat earum ipsam nisi ea.</p>
+                            <a href="#"><i class="bi bi-twitter text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-facebook text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-linkedin text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-instagram text-dark mx-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="card bg-light">
+                        <div class="card-body text-center">
+                            <img src="http://randomuser.me/api/portraits/women/12.jpg" class="rounded-circle mb-3" alt="">
+                            <h3 class="card-title mb-3">Sara Douglas</h3>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla corrupti delectus, commodi voluptatibus quia, repudiandae sint voluptatum praesentium quod consequatur, quo voluptas et vitae dolore placeat earum ipsam nisi ea.</p>
+                            <a href="#"><i class="bi bi-twitter text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-facebook text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-linkedin text-dark mx-1"></i></a>
+                            <a href="#"><i class="bi bi-instagram text-dark mx-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--- Contact and Map--->
+    <section class="p-5">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-md">
+                    <h2 class="text-center mb-4">Contact Info</h2>
+                    <ul class="list-group list-group-flash lead">
+                        <li class="list-group-item">
+                            <span class="fw-bold">Our Location:</span> 9554 Bustleton Ave, Philadelphia, PA 19115 
+                        </li>
+                        <li class="list-group-item">
+                            <span class="fw-bold">Phone:</span> +12159419639 
+                        </li>
+                        <li class="list-group-item">
+                            <span class="fw-bold">Email:</span> LifeWay@gmail.com 
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md">
+                    <div id="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3052.4792260072395!2d-75.03831282007239!3d40.08702708364956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b3bf3f35d6b7%3A0xff457c24054dc159!2sLifeway%20Baptist%20Church!5e0!3m2!1sen!2sus!4v1664578516250!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!---Footer-->
+    <footer class="p-5 bg-dark text-white text-center position-relative">
+        <div class="container">
+            <p class="lead">Copyright &copy; Full Stack Bootcamp</p>
+            <a href="#" class="position-absolite bottom-0 end-0 p5">
+                <i class="bi bi-arrow-up-circle h1"></i>
+            </a>
+            </p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>
