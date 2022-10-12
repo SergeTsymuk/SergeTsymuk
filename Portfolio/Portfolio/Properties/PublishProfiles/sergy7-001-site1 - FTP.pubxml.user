@@ -7,5 +7,256 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword />
+    <_PublishTargetUrl>ftp://win5171.site4now.net:21/portfolio</_PublishTargetUrl>
+    <History>True|2022-10-12T18:24:31.2431496Z;False|2022-10-12T14:23:52.8248150-04:00;True|2022-10-12T14:05:25.3394294-04:00;False|2022-10-12T14:04:38.8669520-04:00;True|2022-10-12T14:02:15.5255166-04:00;True|2022-10-05T14:09:45.9536058-04:00;</History>
+    <LastFailureDetails />
   </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/27/2022 22:36:18</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/27/2022 22:36:18</publishTime>
+    </File>
+    <File Include="Portfolio.deps.json">
+      <publishTime>10/12/2022 14:24:20</publishTime>
+    </File>
+    <File Include="Portfolio.dll">
+      <publishTime>10/12/2022 14:24:19</publishTime>
+    </File>
+    <File Include="Portfolio.exe">
+      <publishTime>10/12/2022 14:24:19</publishTime>
+    </File>
+    <File Include="Portfolio.pdb">
+      <publishTime>10/12/2022 14:24:19</publishTime>
+    </File>
+    <File Include="Portfolio.runtimeconfig.json">
+      <publishTime>10/02/2022 15:27:18</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/12/2022 14:24:20</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap-theme.css">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap-theme.css.map">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap-theme.min.css">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap.css">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap.css.map">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap.min.css">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/css/templatemo-style.css">
+      <publishTime>10/12/2022 13:59:07</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>09/27/2022 22:36:18</publishTime>
+    </File>
+    <File Include="wwwroot/files/SERGE_TSYMUK.pdf">
+      <publishTime>10/12/2022 11:13:20</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/.NET.jpg">
+      <publishTime>09/29/2022 14:31:10</publishTime>
+    </File>
+    <File Include="wwwroot/img/about-icon.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/about-image.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/about.png">
+      <publishTime>10/04/2022 14:43:07</publishTime>
+    </File>
+    <File Include="wwwroot/img/asp.net-logo-MSA-Technosoft.png">
+      <publishTime>09/29/2022 14:32:04</publishTime>
+    </File>
+    <File Include="wwwroot/img/aspnet-mvc.png">
+      <publishTime>09/29/2022 14:33:07</publishTime>
+    </File>
+    <File Include="wwwroot/img/badge-sd.svg">
+      <publishTime>10/02/2022 15:47:08</publishTime>
+    </File>
+    <File Include="wwwroot/img/badge-tm-fill.svg">
+      <publishTime>10/02/2022 15:47:37</publishTime>
+    </File>
+    <File Include="wwwroot/img/BgrHomePic.png">
+      <publishTime>10/04/2022 15:58:40</publishTime>
+    </File>
+    <File Include="wwwroot/img/BootcampNew.png">
+      <publishTime>10/04/2022 16:14:30</publishTime>
+    </File>
+    <File Include="wwwroot/img/bootstrap.png">
+      <publishTime>09/29/2022 13:01:29</publishTime>
+    </File>
+    <File Include="wwwroot/img/C-Sharp.png">
+      <publishTime>09/29/2022 13:00:06</publishTime>
+    </File>
+    <File Include="wwwroot/img/close.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/contact-icon.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/EmplojeeProject.jpg">
+      <publishTime>10/04/2022 15:06:08</publishTime>
+    </File>
+    <File Include="wwwroot/img/first-bg.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/fourth-bg.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/geo-fill.svg">
+      <publishTime>10/02/2022 16:03:57</publishTime>
+    </File>
+    <File Include="wwwroot/img/Green-Tick-PNG-Pic.png">
+      <publishTime>10/05/2022 13:24:34</publishTime>
+    </File>
+    <File Include="wwwroot/img/home-icon.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/HomePic.png">
+      <publishTime>10/04/2022 15:13:56</publishTime>
+    </File>
+    <File Include="wwwroot/img/HomePicture.png">
+      <publishTime>10/12/2022 10:30:52</publishTime>
+    </File>
+    <File Include="wwwroot/img/HomePictureFrame.png">
+      <publishTime>10/04/2022 15:10:08</publishTime>
+    </File>
+    <File Include="wwwroot/img/HTML+CSS.png">
+      <publishTime>09/29/2022 13:01:51</publishTime>
+    </File>
+    <File Include="wwwroot/img/JS.png">
+      <publishTime>09/29/2022 13:01:01</publishTime>
+    </File>
+    <File Include="wwwroot/img/loading.gif">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/MyPicture.png">
+      <publishTime>10/04/2022 15:19:21</publishTime>
+    </File>
+    <File Include="wwwroot/img/NewHomePic.png">
+      <publishTime>10/12/2022 10:17:03</publishTime>
+    </File>
+    <File Include="wwwroot/img/next.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/OnlineStore.jpg">
+      <publishTime>10/04/2022 15:00:58</publishTime>
+    </File>
+    <File Include="wwwroot/img/person-circle.svg">
+      <publishTime>10/02/2022 16:03:55</publishTime>
+    </File>
+    <File Include="wwwroot/img/prev.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/Programming.jpg">
+      <publishTime>09/29/2022 13:09:02</publishTime>
+    </File>
+    <File Include="wwwroot/img/Programming.png">
+      <publishTime>09/29/2022 14:36:48</publishTime>
+    </File>
+    <File Include="wwwroot/img/Project-1.jpg">
+      <publishTime>10/01/2022 18:58:40</publishTime>
+    </File>
+    <File Include="wwwroot/img/Project-1.png">
+      <publishTime>10/02/2022 16:13:31</publishTime>
+    </File>
+    <File Include="wwwroot/img/Project-102.jpg">
+      <publishTime>10/02/2022 16:14:26</publishTime>
+    </File>
+    <File Include="wwwroot/img/Project-103.jpg">
+      <publishTime>10/02/2022 16:15:10</publishTime>
+    </File>
+    <File Include="wwwroot/img/project-item-01.jpg">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/project-item-02.jpg">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/project-item-03.jpg">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/project-item-04.jpg">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/project-item-05.jpg">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/project-item-06.jpg">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/project-item-07.jpg">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/ProjectBootCamp.jpg">
+      <publishTime>10/01/2022 19:15:01</publishTime>
+    </File>
+    <File Include="wwwroot/img/projects-icon.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/right-home-image.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/second-bg.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/Skils.png">
+      <publishTime>09/29/2022 13:48:30</publishTime>
+    </File>
+    <File Include="wwwroot/img/SQL.png">
+      <publishTime>09/29/2022 14:34:48</publishTime>
+    </File>
+    <File Include="wwwroot/img/TheBugTracker.jpg">
+      <publishTime>10/12/2022 10:55:22</publishTime>
+    </File>
+    <File Include="wwwroot/img/third-bg.png">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/js/main.js">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/js/plugins.js">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/js/vendor/bootstrap.js">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/js/vendor/bootstrap.min.js">
+      <publishTime>09/27/2022 22:17:54</publishTime>
+    </File>
+    <File Include="wwwroot/js/vendor/jquery-1.11.2.min.js">
+      <publishTime>09/27/2022 22:17:55</publishTime>
+    </File>
+    <File Include="wwwroot/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js">
+      <publishTime>09/27/2022 22:17:55</publishTime>
+    </File>
+    <File Include="wwwroot/js/vendor/npm.js">
+      <publishTime>09/27/2022 22:17:55</publishTime>
+    </File>
+    <File Include="wwwroot/Portfolio.styles.css">
+      <publishTime>10/02/2022 15:27:18</publishTime>
+    </File>
+  </ItemGroup>
 </Project>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U6NTG4zHEIRfLfG8AzyE4rkx+7f5X/TP8ru3BYqtsvo=",
+  "Hash": "UBGPYsIEi7ZTkBd5teEHwVE/RdiwHBy88h0qkyiFF2I=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -185,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\files\\SERGE_TSYMUK.pdf",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "files/SERGE_TSYMUK.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\SERGE_TSYMUK.pdf"
     },
     {
       "Identity": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
@@ -559,6 +576,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\geo-fill.svg"
+    },
+    {
+      "Identity": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\img\\Green-Tick-PNG-Pic.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/Green-Tick-PNG-Pic.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Green-Tick-PNG-Pic.png"
     },
     {
       "Identity": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\img\\home-icon.png",
@@ -1103,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\SQL.png"
+    },
+    {
+      "Identity": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\img\\TheBugTracker.jpg",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/TheBugTracker.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\TheBugTracker.jpg"
     },
     {
       "Identity": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\Portfolio\\Portfolio\\wwwroot\\img\\third-bg.png",

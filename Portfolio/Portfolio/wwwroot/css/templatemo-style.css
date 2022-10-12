@@ -359,6 +359,15 @@ ul {
 
 
 
+.me {
+    display: inline !important;
+    padding: 10px;
+    text-decoration: underline;
+    text-decoration-color: white !important;
+}
+
+
+
 /*
 ========================
 ------ ABOUT STYLE -----
@@ -932,6 +941,33 @@ body.lb-disable-scrolling {
   opacity: 1;
 }
 
+.popup{
+    width: 400px;
+    background: #fff;
+    borer-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.1);
+    text-align: center;
+    padding: 0 30px 30px;
+    color: black;
+    visibility: hidden;
+    transition: transform 0.4s, top 0.4s;
+}
+
+.open-popup{
+    visibility: visible;
+    top: 50%; 
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.popup img{
+    width: 100px;
+    margin-top: -20px;
+    border-radius: 50%;
+}
+
 
 
 
@@ -1137,3 +1173,6 @@ body.lb-disable-scrolling {
 .owl-carousel .owl-nav {
   display: none;
 }
+
+
+
