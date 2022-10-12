@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gwfEinAfyasFbn9ZLs13aRkVJ+U19ZfAFE+RSKHB9t+D/XzmdVpsiEW7B4h6wJMPABVrVmP0bKpk6sUF9F6ekg==",
+  "dgSpecHash": "FIhiS0mPqmcsWdeUEPMNKwbozlp2MvZWmMhWKYdZMi0mdLLslmMEQiDISqwYSlSlIuMDELnNGpAtQYCTV9a3Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serge\\Documents\\GitHub\\tsymuk\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serge\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

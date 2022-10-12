@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FsJWvRNF17n+HZTJpoVExF1euCJtopy+Cqic6Sw5A+bxQWOX9Imod+aK/g6chz3DLlj6cODh2In9rY55tcocyQ==",
+  "dgSpecHash": "eAPU0XK2FGuIpm7V1JdRVYCAWgL39MXMxartQIgsJGiUgaYagy4kIDGMD55esgTTU6iE3JC/NxHYqka6/pLLYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\serge\\Documents\\GitHub\\tsymuk\\EntityFramework\\DBFirstApp\\DBFirstApp.csproj",
+  "projectFilePath": "C:\\Users\\serge\\Documents\\GitHub\\SergeTsymuk\\EntityFramework\\DBFirstApp\\DBFirstApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serge\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
