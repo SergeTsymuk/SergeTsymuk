@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Ecommerce_Project.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Ecommerce_Project.Data
 {
@@ -9,5 +10,6 @@ namespace Ecommerce_Project.Data
         {
 
         }
+        public DbSet<PageModel> Pages { get; set; }
     }
 }
