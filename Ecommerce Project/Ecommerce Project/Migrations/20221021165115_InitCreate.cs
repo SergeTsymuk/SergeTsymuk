@@ -2,12 +2,10 @@
 
 #nullable disable
 
-namespace EcommerceProject.Migrations
+namespace Ecommerce_Project.Migrations
 {
-    /// <inheritdoc />
-    public partial class InitDbCreation : Migration
+    public partial class InitCreate : Migration
     {
-        /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
@@ -27,7 +25,6 @@ namespace EcommerceProject.Migrations
                 });
         }
 
-        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
